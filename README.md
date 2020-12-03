@@ -22,5 +22,5 @@
 Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
 
-![Графики](https://github.com/SamCullinan/covid19/image/img1.jpg)
-![Графики](https://github.com/SamCullinan/covid19/image/img2.jpg)
+![Графики](https://github.com/SamCullinan/covid19/images/img1.jpg)
+![Графики](https://github.com/SamCullinan/covid19/images/img2.jpg)
