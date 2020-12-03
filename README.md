@@ -19,6 +19,8 @@
 Новрузов Самир
 
 ## Датасет
+Информация о регионе c Яндекс и Google(russia_regions.csv, regions-info.csv)
+(https://github.com/SamCullinan/Covid-19)
 
 COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 (https://github.com/CSSEGISandData/COVID-19)
