@@ -30,5 +30,8 @@ COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE
 
 Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
-![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png) ![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png)
+##  Графики
+
+![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png) 
+![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png)
 ![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img3.png)
