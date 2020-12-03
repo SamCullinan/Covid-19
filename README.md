@@ -35,4 +35,4 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 ![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png) 
 ![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png)
 ![Графики](https://github.com/SamCullinan/Covid-19/blob/master/images/img3.png)
- <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png" width="250"> | <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png" width="250">
+ <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png" width="360"> <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png" width="360">
