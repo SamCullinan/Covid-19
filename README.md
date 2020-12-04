@@ -23,7 +23,7 @@ Rospotrebnadzor
 
 Covid-19 Open Research Dataset
 
-Информация о регионе c Яндекс и Google(russia_regions.csv, regions-info.csv)
+Информация о регионе c Яндекс и Google, от энтузиастов Kaggle(russia_regions.csv, regions-info.csv)
 (https://github.com/SamCullinan/Covid-19)
 
 COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
