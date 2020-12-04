@@ -1,16 +1,17 @@
 # Covid-19
-Проект для курса "Введение в математическое моделирование транспортных потоков" 6 курс ФПМИ.
+Проект для курса "Математическое моделирование транспортных потоков" 6 курс ФПМИ.
+
 Предсказание числа заболевших коронавирусом для регионов России
 
 - Прогноз для регионов России(Ежедневный прогноз-последовательный)
 - Обработка данных
-- Модели (Линейная регрессия, Adaboost Regressor, Случайный лес, Xgboost, SGDRegressor, Lightgbm, pytorch)
+- Модели (ARIMA, RNN, Neural network, SEIR, Линейная регрессия, Adaboost Regressor, Случайный лес, Xgboost, SGDRegressor, Lightgbm, pytorch)
 - Оценка ошибки MALE
 - Сравнение моделей
 - Графики
 
 ## Команда
-Мурадян Арменчик
+Мурадян Армен
 
 Радамович Владислав
 
@@ -19,6 +20,13 @@
 Новрузов Самир
 
 ## Датасет
+Rospotrebnadzor(russia_regions.csv, regions-info.csv)
+(https://github.com/SamCullinan/Covid-19)
+
+Информация о регионе c Яндекс и Google, от энтузиастов Kaggle(russia_regions.csv, regions-info.csv)
+(https://github.com/SamCullinan/Covid-19)
+
+Covid-19 Open Research Dataset
 
 COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 (https://github.com/CSSEGISandData/COVID-19)
@@ -30,6 +38,12 @@ COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE
 
 Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
+ ## Реализация
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2020/week11_conversation/seminar_torch.ipynb)
 
-![Графики](https://github.com/SamCullinan/covid19/images/img1.jpg)
-![Графики](https://github.com/SamCullinan/covid19/images/img2.jpg)
+Здесь можно поработать с нашей моделькой
+
+##  Графики
+
+ <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png" width="400"> <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png" width="400"> <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img3.png" width="400">
+ <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img3.png" width="400">
