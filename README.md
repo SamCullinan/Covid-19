@@ -19,6 +19,10 @@
 Новрузов Самир
 
 ## Датасет
+Rospotrebnadzor
+
+Covid-19 Open Research Dataset
+
 Информация о регионе c Яндекс и Google(russia_regions.csv, regions-info.csv)
 (https://github.com/SamCullinan/Covid-19)
 
