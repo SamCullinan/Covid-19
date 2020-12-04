@@ -48,3 +48,8 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
  <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img1.png" width="400"> <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img2.png" width="400"> <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img3.png" width="400">
  <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img3.png" width="400">
+ 
+
+## Полезные материалы
+[![Модель SEIR]]
+(https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html)
