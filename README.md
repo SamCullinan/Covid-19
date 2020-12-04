@@ -39,7 +39,7 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
  ## Проект
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2020/week11_conversation/seminar_torch.ipynb)
-As usual, open seminar notebook for your framework and follow instructions from there.
+Здесь можно поработать с нашей моделькой
 
 ##  Графики
 
