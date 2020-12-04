@@ -56,3 +56,7 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 [Model SEIR](https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html)
 
 [Model LightGBM](https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc)
+
+[Model LSTM/RNN](https://www.sciencedirect.com/science/article/pii/S0960077920306081)
+
+[Model TABNet](https://arxiv.org/pdf/1908.07442.pdf)
