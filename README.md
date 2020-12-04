@@ -59,4 +59,4 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
 [Model LSTM/RNN](https://www.sciencedirect.com/science/article/pii/S0960077920306081)
 
-[Model TABNet](https://arxiv.org/pdf/1908.07442.pdf)
+[Model TABNet](https://arxiv.org/abs/1908.07442)
