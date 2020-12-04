@@ -7,6 +7,7 @@
 - Обработка данных
 - Модели (ARIMA, RNN, Neural network, SEIR, Линейная регрессия, Adaboost Regressor, Случайный лес, Xgboost, SGDRegressor, Lightgbm, pytorch)
 - Оценка ошибки MALE 
+   
    <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/MALE.png" width="200">
  
 - Сравнение моделей
