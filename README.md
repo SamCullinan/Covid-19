@@ -51,4 +51,6 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
  
 
 ## Полезные материалы
+[Model ARIMA](http://www.machinelearning.ru/wiki/index.php?title=ARIMA)
+
 [Model SEIR](https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html)
