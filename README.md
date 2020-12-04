@@ -51,5 +51,4 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
  
 
 ## Полезные материалы
-[![Модель SEIR]()]
-(https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html)
+[![Open In Colab]](https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html)
