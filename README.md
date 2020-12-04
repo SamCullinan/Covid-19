@@ -5,7 +5,7 @@
 
 - Прогноз для регионов России(Ежедневный прогноз-последовательный)
 - Обработка данных
-- Модели (ARIMA, RNN, Neural network,Continue the trend, SEIR, Линейная регрессия, Adaboost Regressor, Случайный лес, Xgboost, SGDRegressor, Lightgbm, pytorch)
+- Модели (ARIMA, RNN, Neural network, Continue the trend, SEIR, Линейная регрессия, Adaboost Regressor, Случайный лес, Xgboost, SGDRegressor, Lightgbm, pytorch)
 - Оценка ошибки MALE
 - Сравнение моделей
 - Графики
