@@ -11,7 +11,7 @@
 - Сравнение моделей
 - Графики
 
-## Датасет
+## Набор данных
 Rospotrebnadzor(russia_regions.csv, regions-info.csv)
 (https://github.com/SamCullinan/Covid-19)
 
