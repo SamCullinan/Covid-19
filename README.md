@@ -44,7 +44,7 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
 ##  Графики
 
- <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img4.png" width="2000">
+ <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img4.jpeg" width="2000">
  
 
 ## Полезные материалы
