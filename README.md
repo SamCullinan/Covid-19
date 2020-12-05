@@ -29,7 +29,7 @@ COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE
 Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
  ## Реализация
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2020/week11_conversation/seminar_torch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SamCullinan/Covid-19/blob/master/CoViD_19.ipynb)
 
 Здесь можно поработать с нашей моделькой
 
