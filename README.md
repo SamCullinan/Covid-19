@@ -33,15 +33,6 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
 
 Здесь можно поработать с нашей моделькой
 
-## Команда
-Мурадян А.
-
-Радамович В.
-
-Кривошеев А.
-
-Новрузов С.
-
 ##  Графики
 
  <img src="https://github.com/SamCullinan/Covid-19/blob/master/images/img5.jpeg" width="2000">
