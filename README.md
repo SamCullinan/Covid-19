@@ -31,7 +31,7 @@ Python 3.5, pandas, numpy, xgboost, lightgbm, scikit-learn
  ## Реализация
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SamCullinan/Covid-19/blob/master/CoViD_19.ipynb)
 
-Здесь можно поработать с нашей моделькой.
+Здесь можно поработать с нашей моделькой
 
 ##  Графики
 
