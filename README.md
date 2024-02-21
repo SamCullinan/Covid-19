@@ -1,4 +1,4 @@
-# Предсказание числа заболевших Covid-19 для регионов России/Prediction of the number of COVID-19 cases for the regions of Russia
+# Предсказание числа заболевших Covid-19 для регионов России / Prediction of the number of COVID-19 cases for the regions of Russia
 Проект для курса "Математическое моделирование транспортных потоков"
 
 - Прогноз для регионов России
